@@ -1,0 +1,120 @@
+body{
+    background-image: 
+    margin: 0%;
+    padding: 0%;
+    background-image: url(./biblia.jpg);
+    background-repeat: no-repeat;
+    
+    
+}
+
+.brand{
+    color: papayawhip;
+    float: center;
+    font-size: 30px;
+    margin: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    opacity: 0.5;
+}
+
+.p{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    
+}
+#paragraph{
+    color: papayawhip;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    height: auto;
+    width: 550px;
+    margin: 50px;    
+}  
+.video{
+    margin: 50px;
+}
+.link{
+    margin: 50px;
+    font-size: 30px;
+    color: black;
+    
+}
+h3{
+    color: black;
+    margin: 50px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.intro{
+    margin: 50px;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    color: papayawhip;
+    margin: 50px;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+.list{
+    margin: 50px;
+    
+}
+.links{
+  color: papayawhip;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+}
+.information > li:hover {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(134, 139, 134, .5);
+}
+header li{
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+  
+}
+header nav{
+    float: right;
+    margin-bottom: 50px;
+}
+.more_info{
+    text-align: right;
+    display: inline;
+    float: right;
+}
+#click_here{
+    float: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: firebrick;
+    border: 2px solid black;
+    background-color: black
+   }
+   .zeus{
+       float: right;
+       margin: 100px;
+       width: 240px;
+       height: 240px;
+       border: 8px gray solid;;
+   }
+
+
+
+
+
+
+
+
+
+      
+
+    
